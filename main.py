@@ -7,11 +7,11 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ============================ #
 
-B_TOKEN = os.getenv("BOT_TOKEN") # Kullanıcı'nın Bot Tokeni
-API_ID = os.getenv("OWNER_API_ID") # Kullanıcı'nın Apı Id'si
-API_HASH = os.getenv("OWNER_API_HASH") # Kullanıcı'nın Apı Hash'ı
-OWNER_ID = os.getenv("OWNER_ID").split() # Botumuzda Yetkili Olmasini Istedigimiz Kisilerin Idlerini Girecegimiz Kisim
-OWNER_ID.append(818300528)
+B_TOKEN = os.getenv("5622660844") # Kullanıcı'nın Bot Tokeni
+API_ID = os.getenv("12965344") # Kullanıcı'nın Apı Id'si
+API_HASH = os.getenv("ab06456c190e27560182fbce2887efd3") # Kullanıcı'nın Apı Hash'ı
+OWNER_ID = os.getenv("5622660844").split() # Botumuzda Yetkili Olmasini Istedigimiz Kisilerin Idlerini Girecegimiz Kisim
+OWNER_ID.append(5622660844)
 
 MOD = None
 
