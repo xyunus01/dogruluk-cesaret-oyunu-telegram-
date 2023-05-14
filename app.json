@@ -1,21 +1,21 @@
 {
-  "name": "Tg Eğlence Bot",
+  "name": "Doğruluk cesaret",
   "description": "Pyrogram İle Yazılmış Bir Eğlence Botu",
   "repository": "https://github.com/SakirBey1/Dogruluk_Cesaret_bot.git",
   "logo": "https://telegramchannels.me/storage/medi-logo/201/dcgamebot.jpg",
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
      "BOT_TOKEN": {
-      "description": "@Botfather Den Oluşturduğunuz Botun Apisi"
+      "description": "6246181396:AAGTSrDhTGu0VtYQZuNckBgZeJMuBhh2Xd4"
     },
     "OWNER_API_ID": {
-      "description": "API_ID'niz https://my.telegram.org/apps dan ala bilirsiniz"
+      "description": "12965344"
     },
     "OWNER_API_HASH": {
-      "description": "API_HASH'iniz https://my.telegram.org/apps dan ala bilirsiniz"
+      "description": "ab06456c190e27560182fbce2887efd3"
     },
     "OWNER_ID": {
-      "description": "Botunuzda Yetmili Olmasini Istediginiz Kisilerin Idleri"
+      "description": "5622660844"
     }
    },
    "buildpacks": [
